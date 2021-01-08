@@ -29,7 +29,7 @@ const StyledSignUp = styled.div`
   justify-content: center;
   margin: 0 auto;
   width: 80%;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 `;
 
 const StyledForm = styled.form`
